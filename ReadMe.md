@@ -5,5 +5,7 @@ Since around 1897, this cipher has remained unsolved until now. Unlike most or a
 The PDF file has most of the details of the solution. The various other files will be listed here as needed.
 
 Fonts:
+
 Elgar.ttf
+
 This is a true type font that will allow messages using the 24 symbols of Elgar's substitution cipher.
