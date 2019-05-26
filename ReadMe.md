@@ -5,7 +5,7 @@ Since around 1897, this cipher has remained unsolved until now. Unlike most or a
 The PDF file has most of the details of the solution. The various other files will be listed here as needed.
 
 
-Other files you may be interested in will be found in the CryptoProject section. The shotgun hill climber and the subcipher helper havn't been published yet.
+Other files you may be interested in will be found in the CryptoProject section. The shotgun hill climber has it's own section.
 
 
 Fonts:
