@@ -1,0 +1,19 @@
+The Dorabella Cipher Solution
+
+Ciphertext (transcribed):
+AIBJQCUJTDKEWXENEECIIEXSDSVKL
+UEUCUJTHJBEEBCVWUEKECFLWXSTTSKL
+BLCFLBXFMVLBECFWLXJIVLCJXSJ 
+
+Key:
+PSTYEHKWBARIGMXJFVOLDUNCZQ
+
+Plaintext:
+PBS AFT DALYRENCE MEET B BECO YOUR IDEDTD ALWASE
+E STUNDER E THINC OLL OR IS IT HIS CH GUISE
+THNIC ABU IT ACOA
+
+Message:
+Problems after dalliance meet is because your identity always
+a stutter I think all or is it his charming guise?
+Think about it acolyte.
