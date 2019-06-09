@@ -13,3 +13,32 @@ Fonts:
 Elgar.ttf
 
 This is a true type font that will allow messages using the 24 symbols of Elgar's substitution cipher.
+
+
+Texts:
+
+Various text files related to the solution
+
+
+Dorabella-Solution.pdf
+
+The initial solution file. This was put together rather quickly. For historic reasons, I did
+save the aproximate time and date when I found the solution. Those were reconstructed from the
+respective directory and file dates.
+
+
+Dorabella-SolutionPt2.pdf
+
+Because of some doubt, some more test runs were made including using another scoring file.
+No new results to be reported. This has the final solution and has been kept updated.
+
+
+DorabellaSol.pdf
+DorabellaSol.txt
+
+These files are almost the same. They contain a very brief copy of the cipher, the key, plaintext
+and the best guess to the actual message.
+
+Contact: shadowwolf63 at gmail, this github account or my tumbler account.
+I can do voice chat through Skype. Discord, Team Speak, Ventrilo and mumble upon request.
+Anything else will require special arrangments.
